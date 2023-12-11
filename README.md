@@ -1,6 +1,8 @@
 # SchedulerC5
 Third Party API's
 
+Readme- This is a simple workday scheduler. It will react to real time and help you track your day.
+
 Acceptance Criteria-
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
